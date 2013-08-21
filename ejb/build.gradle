@@ -1,0 +1,4 @@
+dependencies {
+	compile group: 'commons-collections', name: 'commons-collections', version: '3.2'
+	compile 'javax.ejb:ejb-api:3.0'
+}

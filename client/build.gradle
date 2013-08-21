@@ -1,0 +1,4 @@
+dependencies {
+	compile project(':ejb')
+	runtime files('src/test/resources/jndi.properties')
+}
